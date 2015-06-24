@@ -1,0 +1,21 @@
+
+.bai{margin: 0,10px,10px,10px;
+	 display: inline;
+	 vertical-align: top;
+	 width: 940px;
+	}
+.bai img{width: 200px;height: 250px;border: 3px solid #36648B;
+		padding: 5px;background-color: #F0F8FF;	
+		margin: 5px;position: relative;top: -5px;left: -5px;
+
+		}
+.bai p{font-family: "Microsoft YaHei";font-size: 20px;
+	   background-color: #CCCCCC;
+	   border: 1px dashed #003366;
+	   padding: 5px;margin: 10px;
+	   text-align: center;
+	   width: 180px;height: 3em;
+	   }
+.bai ul{margin: 0px;padding: 0px;list-style: none;position: center;width: 1140px;
+		}
+.bai ul li{float: left;}
